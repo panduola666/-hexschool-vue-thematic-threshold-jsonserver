@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "email": "panduola666@gmail.com",
+      "email": "admin@gmail.com",
       "password": "$2a$10$YZezUqOZkcwBcjPY1J0GxeYjmIHaHGPTsvUG81luDrxdgf.lLQbta",
       "id": 1,
       "isAdmin": true
